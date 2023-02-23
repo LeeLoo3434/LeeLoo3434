@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1 class="title">
-    Hello, my name is Lola
+    Multipass Manifesto: The Coding Adventures of Lola
   </h1>
 </div>
 
