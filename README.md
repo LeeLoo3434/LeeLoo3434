@@ -3,16 +3,6 @@
 </head>
 
 <div align="center">
-  <h1 class="title">
-    Multipass Manifesto: The Coding Adventures of Lola
-  </h1>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/lKPFZ1nPKW8c8/giphy.gif" alt="Welcome!" width="500" height="auto" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 badge" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3 badge" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="JavaScript badge" />
@@ -24,7 +14,12 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL badge" />
 </div>
 
-I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
+<div align="center">
+  <img src="https://media.giphy.com/media/lKPFZ1nPKW8c8/giphy.gif" alt="Welcome!" width="500" height="auto" />
+</div>
+
+
+I’m a full-stack developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts.
 
 
 <div align="center">
